@@ -6,7 +6,7 @@ import (
 	"crypto/cipher"
 	"crypto/sha1"
 	"fmt"
-	"github.com/ksp237/grain128-go"
+	"github.com/6b70/grain128-go"
 	"google.golang.org/protobuf/proto"
 	"spotify-grain-fingerprint/proto/compiled/spotify"
 )
